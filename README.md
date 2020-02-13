@@ -8,3 +8,12 @@ This was one of the first games I had to build during my web development bootcam
 
 - When the user clicks "Start Game" a random amount of buttons will appear and a 5 second timer will begin. 
 - The user must click all the buttons before the end of the timer. 
+
+### Screenshot
+
+
+![Screenshot](/button-mania.png)
+
+
+
+![Screenshot](/screenshot2.png)
